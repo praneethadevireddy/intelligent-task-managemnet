@@ -1,2 +1,2 @@
-# intelligent-task-managemnet
-# intelligent-task-managemnet
+# intelligent-task-management
+# intelligent-task-management
